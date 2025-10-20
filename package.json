@@ -1,0 +1,17 @@
+{
+  "name": "solar-system-simulator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "three": "^0.180.0",
+    "lil-gui": "^0.21.0",
+    "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "electron": "^38.3.0"
+  }
+}
